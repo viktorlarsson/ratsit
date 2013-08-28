@@ -4,7 +4,7 @@
     <list default="true" id="c9b70d57-00b8-4bbc-9af5-6637eebc2d30" name="Default" comment="" />
     <ignored path="ratsit.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/.gitignore" changelist="c9b70d57-00b8-4bbc-9af5-6637eebc2d30" time="1377701820658" ignored="false" />
+    <file path="/.gitignore" changelist="c9b70d57-00b8-4bbc-9af5-6637eebc2d30" time="1377701844728" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+            <state line="1" column="7" selection-start="18" selection-end="18" vertical-scroll-proportion="0.023743017">
               <folding />
             </state>
           </provider>
@@ -225,7 +225,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+        <state line="1" column="7" selection-start="18" selection-end="18" vertical-scroll-proportion="0.023743017">
           <folding />
         </state>
       </provider>
