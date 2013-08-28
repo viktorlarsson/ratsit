@@ -1,4 +1,12 @@
-ratsit
+PHP Class to consume Ratsit API Services
+======
 ======
 
-Wrapper for consuming Ratsit API Services for PHP
+* Currently only supports
+- GetCompanyInformationPackage
+- GetPersonInformationPackage
+
+
+======
+
+Maintained by We made you look (http://wemadeyoulook.at)
