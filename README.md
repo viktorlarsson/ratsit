@@ -12,7 +12,7 @@ Supports
 
 Example code
 
-[code]
+```php
 <?php
 include_once('ratsit/information.php');
 include_once('ratsit/config.php');
@@ -30,18 +30,25 @@ $result = Ratsit::getInformation($number);
 echo $result;
 
 ?>
-[/code]
+```
 
 Request and response
 ==============
 
-[code]
+```text
 Request URL:http://www.kontentan.se/ratsit/?number=556709-0526
 Request Method:GET
 Status Code:200 OK
-[code]
+```
 
-[code]{"companyName":"Ratsit AB","Street":"DATAV\u00c4GEN 12 A","ZipCode":"43632","City":"ASKIM"}[/code]
+```javascript
+{
+	"companyName": "Ratsit AB",
+	"Street":"DATAV\u00c4GEN 12 A",
+	"ZipCode":"43632",
+	"City":"ASKIM"
+}
+```
 
 Roadmap
 ==============
