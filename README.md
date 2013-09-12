@@ -50,6 +50,10 @@ Status Code:200 OK
 }
 ```
 
+Requirements
+==============
+* cURL
+
 Roadmap
 ==============
 * GetAnnualReport
