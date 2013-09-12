@@ -134,7 +134,6 @@ abstract class Ratsit {
 		if($data->PersonInformationPackage) {
 			$information->firstName = (string)$data->PersonInformationPackage->PersonInformation->GivenName;
 			$information->lastName = (string)$data->PersonInformationPackage->PersonInformation->SurName;
-
 			$information->Street = (string)$data->PersonInformationPackage->NationalRegistration->Street;
 			$information->ZipCode =  (string)$data->PersonInformationPackage->NationalRegistration->ZipCode;
 			$information->City = (string)$data->PersonInformationPackage->NationalRegistration->City;
