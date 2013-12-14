@@ -36,7 +36,7 @@ Request and response
 ==============
 
 ```text
-Request URL:http://www.kontentan.se/ratsit/?number=556709-0526
+Request URL:localhost/ratsit/?number=556709-0526
 Request Method:GET
 Status Code:200 OK
 ```
