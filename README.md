@@ -1,6 +1,10 @@
 Ratsit PHP Class
 ==============
 
+This package is old and deprecated, please use https://github.com/pontusab/Ratsit instead.
+
+[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
+
 A PHP class for communicating with Ratsit API.
 
 http://www.ratsit.se/Content/API_Webservice.aspx
@@ -60,16 +64,3 @@ Roadmap
 * GetCompanies
 * GetCompanyInformationPackage_NOLetterOfNotice
 * GetPersonInformationPackage_NOLetterOfNotice
-
-
-Contact
-==============
-Code is maintained by We made you look (http://wemadeyoulook.at)
-
-API is provided by Ratsit
-
-Ratsit AB, Säljavdelningen API
-Fredrik Tengström
-fredrik.tengstrom@ratsit.se
-031-67 38 12
-
