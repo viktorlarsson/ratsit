@@ -1,7 +1,7 @@
 Ratsit PHP Class
 ==============
 
-This package is old and deprecated, please use https://github.com/pontusab/Ratsit instead.
+This package is old and deprecated, and not updated anymore.
 
 [![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
 
